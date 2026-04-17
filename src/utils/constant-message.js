@@ -11,8 +11,8 @@ export const AUTH_MESSAGES = {
   EMPTY_FILDS:"All fields are required"
 };
 
-export const URL_MESSAGES = {
-  REQUIRED_FIELDS: "originalUrl and urlName are required",
+export const TASK_MESSAGES = {
+  REQUIRED_FIELDS: "originalUrl and task  are required",
   CREATE_SUCCESS: "URL created successfully",
   FETCH_SUCCESS: "All URLs fetched successfully",
   UPDATE_SUCCESS: "URL updated successfully",
